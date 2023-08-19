@@ -163,6 +163,39 @@ def ChatGPT_safe_generate_response(prompt,
 
   return False
 
+def ChatGPT_safe_generate_response_2(prompt,
+                                     repeat=3,
+                                     fail_safe_response="error",
+                                     func_validate=None,
+                                     func_clean_up=None,
+                                     verbose=False):
+  # prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
+  # prompt = '"""\n' + prompt + '\n"""\n'
+
+  if verbose:
+    print ("CHAT GPT PROMPT")
+    print (prompt)
+
+  for i in range(repeat):
+
+    try:
+      curr_gpt_response = ChatGPT_request(prompt).strip()
+      print("curr_gpt_response")
+      print("-0-0-0-0-0-0-")
+      print(curr_gpt_response)
+      print("-0-0-0-0-0-0-")
+      if func_validate(curr_gpt_response, prompt=prompt):
+        return_value = func_clean_up(curr_gpt_response, prompt=prompt)
+        print("return_value")
+        print("-0-0-0-0-0-0-")
+        print(return_value)
+        print("-0-0-0-0-0-0-")
+        return return_value
+    except:
+      pass
+
+  return fail_safe_response
+
 
 def ChatGPT_safe_generate_response_OLD(prompt, 
                                    repeat=3,
@@ -252,21 +285,56 @@ def generate_prompt(curr_input, prompt_lib_file):
   return prompt.strip()
 
 
-def safe_generate_response(prompt, 
+# def safe_generate_response(prompt,
+#                            gpt_parameter,
+#                            repeat=5,
+#                            fail_safe_response="error",
+#                            func_validate=None,
+#                            func_clean_up=None,
+#                            verbose=False):
+#   if verbose:
+#     print (prompt)
+#
+#   for i in range(repeat):
+#     curr_gpt_response = GPT_request(prompt, gpt_parameter)
+#     if func_validate(curr_gpt_response, prompt=prompt):
+#       return func_clean_up(curr_gpt_response, prompt=prompt)
+#     if verbose:
+#       print ("---- repeat count: ", i, curr_gpt_response)
+#       print (curr_gpt_response)
+#       print ("~~~~")
+#   return fail_safe_response
+
+
+def safe_generate_response(prompt,
                            gpt_parameter,
                            repeat=5,
                            fail_safe_response="error",
                            func_validate=None,
                            func_clean_up=None,
-                           verbose=False): 
-  if verbose: 
+                           verbose=False):
+  print("[safe_generate_response]: ENTER")
+  print("[safe_generate_response]: Calling")
+  response = ChatGPT_safe_generate_response_2(prompt, repeat=repeat, fail_safe_response=fail_safe_response, func_validate=func_validate, func_clean_up=func_clean_up)
+  return response
+
+  # To get back to normal:
+  # Comment above
+  # Uncomment below
+
+  if verbose:
     print (prompt)
 
-  for i in range(repeat): 
+  for i in range(repeat):
     curr_gpt_response = GPT_request(prompt, gpt_parameter)
-    if func_validate(curr_gpt_response, prompt=prompt): 
-      return func_clean_up(curr_gpt_response, prompt=prompt)
-    if verbose: 
+    if func_validate(curr_gpt_response, prompt=prompt):
+      return_value = func_clean_up(curr_gpt_response, prompt=prompt)
+      print("-0-0-0-0-0-0-")
+      print(return_value)
+      print("-0-0-0-0-0-0-")
+      exit()
+      return return_value
+    if verbose:
       print ("---- repeat count: ", i, curr_gpt_response)
       print (curr_gpt_response)
       print ("~~~~")

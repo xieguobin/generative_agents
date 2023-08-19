@@ -397,6 +397,11 @@ class ReverieServer:
           # {"persona": {"Maria Lopez": {"movement": [58, 9]}},
           #  "persona": {"Klaus Mueller": {"movement": [38, 12]}}, 
           #  "meta": {curr_time: <datetime>}}
+
+          movementFolder = f"{sim_folder}/movement"  ### https://github.com/joonspk-research/generative_agents/issues/40
+          if not os.path.exists(movementFolder):
+            os.mkdir(movementFolder)
+
           curr_move_file = f"{sim_folder}/movement/{self.step}.json"
           with open(curr_move_file, "w") as outfile: 
             outfile.write(json.dumps(movements, indent=2))
@@ -605,10 +610,14 @@ if __name__ == '__main__':
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
 
-  origin = input("Enter the name of the forked simulation: ").strip()
-  target = input("Enter the name of the new simulation: ").strip()
+  # origin = input("Enter the name of the forked simulation: ").strip()
+  # target = input("Enter the name of the new simulation: ").strip()
+  #
+  # rs = ReverieServer(origin, target)
+  # rs.open_server()
 
-  rs = ReverieServer(origin, target)
+  rs = ReverieServer("base_the_ville_isabella_maria_klaus",
+                     "xgb2-step-3-1")
   rs.open_server()
 
 

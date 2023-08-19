@@ -1,0 +1,183 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:01:30",
+  "curr_tile": [
+    73,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 142,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "prepare the cafe for opening at 8:00 am",
+    "serve customers and manage the cafe until 8:00 pm",
+    "clean up and close the cafe"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine\n\n[(ID:bdUgJK) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing the cafe for opening at 8:00 AM\n\n[(ID:yfLWwo) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:xw2Mgz) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:3bpzIu) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:UyJVsX) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:NfLgDg) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:HdAmzy) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:lBNSro) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:gZOIrb) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:Z6XRKY) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:jiWGwF) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:fvJYX1) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n\n[(ID:GnJXEG) Monday February 13 -- 07:00 PM] Activity: Isabella is cleaning up and closing the cafe\n\n[(ID:vaokWO) Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe\n\n[(ID:adhj8m) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n\n[(ID:R8d6Me) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n\n[(ID:DyKRbn) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "preparing the cafe for opening at 8:00 AM\n[Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 07:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n[Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[(ID:kjgaoA) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[(ID:rhp93m) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n[(ID:yfl9np) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:appssl) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[(ID:fEf4sH) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:iI5gRH) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:uUGy7H) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:nNr6nH) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:i6r3gH) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:uiJwoH) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:9G2XsH) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:1f3foH) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:yfLWw0) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[(ID:dPNDaH) Monday February 13 -- 07:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[(ID:lF6ueH) Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[(ID:9vhgrI) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ad3tJI) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:kj8vFK) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:trTpsy) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:9Ue3yo) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:i4C975) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:YF6ZGY) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:v9ZEaW) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "serving customers and managing the cafe",
+      360
+    ],
+    [
+      "cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "cleaning up and closing the cafe\n[Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n[Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "relaxing and winding down",
+      60
+    ],
+    [
+      "get ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine\n\n[(ID:bdUgJK) Monday February 13 -- 07:00 AM] Activity: Isabella is preparing the cafe for opening at 8:00 AM\n\n[(ID:yfLWwo) Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:xw2Mgz) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:3bpzIu) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:UyJVsX) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:NfLgDg) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:HdAmzy) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:lBNSro) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:gZOIrb) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:Z6XRKY) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:jiWGwF) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n\n[(ID:fvJYX1) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n\n[(ID:GnJXEG) Monday February 13 -- 07:00 PM] Activity: Isabella is cleaning up and closing the cafe\n\n[(ID:vaokWO) Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe\n\n[(ID:adhj8m) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n\n[(ID:R8d6Me) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n\n[(ID:DyKRbn) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "preparing the cafe for opening at 8:00 AM\n[Monday February 13 -- 08:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 07:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n[Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[(ID:kjgaoA) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[(ID:rhp93m) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n[(ID:yfl9np) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:appssl) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[(ID:fEf4sH) Monday February 13 -- 10:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:iI5gRH) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:uUGy7H) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:nNr6nH) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:i6r3gH) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:uiJwoH) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:9G2XsH) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:1f3foH) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:yfLWw0) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[(ID:dPNDaH) Monday February 13 -- 07:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[(ID:lF6ueH) Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[(ID:9vhgrI) Monday February 13 -- 11:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:ad3tJI) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:kj8vFK) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:trTpsy) Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:9Ue3yo) Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:i4C975) Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:YF6ZGY) Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:v9ZEaW) Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "serving customers and managing the cafe\n[Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 03:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 05:00 PM] Activity: Isabella is serving customers and managing the cafe\n[Monday February 13 -- 06:00 PM] Activity: Isabella is cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "serving customers and managing the cafe",
+      360
+    ],
+    [
+      "cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "cleaning up and closing the cafe\n[Monday February 13 -- 08:00 PM] Activity: Isabella is cleaning up and closing the cafe\n[Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and winding down\n[Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "cleaning up and closing the cafe",
+      60
+    ],
+    [
+      "relaxing and winding down",
+      60
+    ],
+    [
+      "get ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 360,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being used by Isabella Rodriguez for sleeping",
+  "act_obj_pronunciatio": "\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "bed",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
