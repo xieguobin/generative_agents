@@ -1,0 +1,227 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:01:30",
+  "curr_tile": [
+    127,
+    46
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 142,
+  "importance_ele_n": 7,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College at 8:00 am",
+    "spend the day writing his research paper on the effects of gentrification in low-income communities",
+    "eat lunch at 12:00 pm",
+    "continue working on his research paper",
+    "take a break for dinner at 5:00 pm at Hobbs Cafe",
+    "return to the library and continue writing until around 8:00 pm",
+    "go back to his dorm and relax before bed"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (washing his face and brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (preparing breakfast)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (eating breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (cleaning up the breakfast dishes)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (grabbing his backpack and keys)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm (leaving his dorm and heading to the library at Oak Hill College)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College\n[(ID:jx789u) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:HP1W4k) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:IYWxPh) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:Dk0Ij1) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:zT8Po6) Monday February 13 -- 01:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:6ZsnvZ) Monday February 13 -- 02:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:zN7lCr) Monday February 13 -- 03:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:007fAh) Monday February 13 -- 04:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:oC6qJ5) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:WCuZ2G) Monday February 13 -- 06:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:xpGJrt) Monday February 13 -- 07:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:7OZHId) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library to continue working on his research paper\n[(ID:afjANx) Monday February 13 -- 09:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:OVL7N6) Monday February 13 -- 10:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:XGdKQ8) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities\n[(ID:SrYzNa) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:3rVePm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:zpmvX9) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:iouFgW) Monday February 13 -- 01:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:L2gKHM) Monday February 13 -- 02:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:8uR31l) Monday February 13 -- 03:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:2bqN87) Monday February 13 -- 04:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:8Ne5Jn) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:SVYv4D) Monday February 13 -- 06:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:QZsvSR) Monday February 13 -- 07:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:XH6jE1) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library to continue working on his research paper\n[(ID:poGru3) Monday February 13 -- 09:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:vkcrOT) Monday February 13 -- 10:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:MWnzkw) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities\n[(ID:VU70jY) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:WYGoyJ) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:z17PA8) Monday February 13 -- 01:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:XNb2bT) Monday February 13 -- 02:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:8cMoQa) Monday February 13 -- 03:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:YOdsXp) Monday February 13 -- 04:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:paXjvi) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities\n[(ID:wjLBaO) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:3vJR6n) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:E8PMDL) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:ZajXGl) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:hvw66L) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:b8EAiX) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:OW3BZs) Monday February 13 -- 06:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:0VSVS0) Monday February 13 -- 07:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:JrFuLe) Monday February 13 -- 08:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:PDJdnk) Monday February 13 -- 09:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:JTsvD1) Monday February 13 -- 10:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:TAwYvj) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "eating lunch\n[(ID:Sn6ml9) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch",
+      60
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities",
+      180
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "taking a break for dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "returning to the library and continuing to work on his research paper",
+      120
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine\n[(ID:1HwIDe) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:CruDdy) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:jz61kB) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:Gc3jsP) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library and continuing to work on his research paper\n[(ID:r4KV5J) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College\n[(ID:jx789u) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:HP1W4k) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:IYWxPh) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:Dk0Ij1) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:zT8Po6) Monday February 13 -- 01:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:6ZsnvZ) Monday February 13 -- 02:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:zN7lCr) Monday February 13 -- 03:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:007fAh) Monday February 13 -- 04:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:oC6qJ5) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:WCuZ2G) Monday February 13 -- 06:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:xpGJrt) Monday February 13 -- 07:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:7OZHId) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library to continue working on his research paper\n[(ID:afjANx) Monday February 13 -- 09:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:OVL7N6) Monday February 13 -- 10:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:XGdKQ8) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities\n[(ID:SrYzNa) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:3rVePm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:zpmvX9) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:iouFgW) Monday February 13 -- 01:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:L2gKHM) Monday February 13 -- 02:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:8uR31l) Monday February 13 -- 03:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:2bqN87) Monday February 13 -- 04:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:8Ne5Jn) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:SVYv4D) Monday February 13 -- 06:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:QZsvSR) Monday February 13 -- 07:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:XH6jE1) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to the library to continue working on his research paper\n[(ID:poGru3) Monday February 13 -- 09:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:vkcrOT) Monday February 13 -- 10:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:MWnzkw) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities\n[(ID:VU70jY) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:WYGoyJ) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:z17PA8) Monday February 13 -- 01:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:XNb2bT) Monday February 13 -- 02:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:8cMoQa) Monday February 13 -- 03:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:YOdsXp) Monday February 13 -- 04:00 PM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities\n[(ID:paXjvi) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities\n[(ID:wjLBaO) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch\n[(ID:3vJR6n) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:E8PMDL) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:ZajXGl) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:hvw66L) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:b8EAiX) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner at Hobbs Cafe\n[(ID:OW3BZs) Monday February 13 -- 06:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:0VSVS0) Monday February 13 -- 07:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:JrFuLe) Monday February 13 -- 08:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:PDJdnk) Monday February 13 -- 09:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:JTsvD1) Monday February 13 -- 10:00 PM] Activity: Klaus is continuing to write his research paper\n[(ID:TAwYvj) Monday February 13 -- 11:00 PM] Activity: Klaus is relaxing before bed in his dorm",
+      60
+    ],
+    [
+      "eating lunch\n[(ID:Sn6ml9) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch",
+      60
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities",
+      180
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "taking a break for dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "returning to the library and continuing to work on his research paper",
+      120
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "relaxing before bed in his dorm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 420,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Klaus Mueller",
+    "sleep",
+    "None"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udcbb",
+  "act_obj_event": [
+    "bed",
+    "be used",
+    "NULL"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
